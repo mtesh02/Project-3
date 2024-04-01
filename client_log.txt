@@ -1,0 +1,5 @@
+2024-03-25 14:19:21 | Sent message to server: Hello, UDP Server!
+2024-03-25 14:19:29 | Sent message to server: Hello, UDP Server!
+2024-03-25 14:19:59 | Sent message to server: Hello, UDP Server!
+2024-03-25 19:12:38 | Sent message to server: Hello, UDP Server!
+2024-03-25 19:12:38 | Received response from server: Message received: Hello, UDP Server!
